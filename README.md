@@ -1,2 +1,2 @@
-# be---t-M---yk---
+# be/-\t-M/-\yk/-\h
 Ever want to make a beat in a polyrhythmic fashion but just can't get your sequencer to do it?? Go no further...
