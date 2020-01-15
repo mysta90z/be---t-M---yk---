@@ -3,4 +3,4 @@ Ever want to make a beat in a polyrhythmic fashion but just can't get your seque
 
 Simply load the Max patch and push the buttons, let me know if you have any issues? Thx.
 
-text: ![beatmaker interface](/beatmaker_interface.png)
+![beatmaker interface](/beatmaker_interface.png)
